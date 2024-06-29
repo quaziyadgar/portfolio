@@ -72,7 +72,7 @@ export const Home = () => {
                 </p>
                 <div className="social-media-div">
                   <a
-                    href="https://github.com/vikasdev66"
+                    href="https://github.com/quaziyadgar"
                     className="icon-button github"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -81,7 +81,7 @@ export const Home = () => {
                     <span />
                   </a>
                   <a
-                    href="https://www.linkedin.com/in/vikasdev/"
+                    href="https://www.linkedin.com/in/quazi-yadgar-husain-5a83291b4/"
                     className="icon-button linkedin"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -90,7 +90,7 @@ export const Home = () => {
                     <span />
                   </a>
                   <a
-                    href="mailto:vikasmishra.webdev@gmail.com"
+                    href="mailto:quaziyadgar@gmail.com"
                     className="icon-button google"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -2694,15 +2694,15 @@ export const Home = () => {
                 <br />
                 <a
                   className="contact-detail-email"
-                  href="mailto:vikasmishra.webdev@gmail.com"
+                  href="mailto:quaziyadgar@gmail.com"
                 >
-                  vikasmishra.webdev@gmail.com
+                  quaziyadgar@gmail.com
                 </a>
                 <br />
                 <br />
                 <div className="social-media-div">
                   <a
-                    href="https://github.com/vikasdev66"
+                    href="https://github.com/quaziyadgar"
                     className="icon-button github"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -2711,7 +2711,7 @@ export const Home = () => {
                     <span />
                   </a>
                   <a
-                    href="https://www.linkedin.com/in/vikasdev/"
+                    href="https://www.linkedin.com/in/quazi-yadgar-husain-5a83291b4/"
                     className="icon-button linkedin"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -2720,7 +2720,7 @@ export const Home = () => {
                     <span />
                   </a>
                   <a
-                    href="mailto:vikasmishra.webdev@gmail.com"
+                    href="mailto:quaziyadgar@gmail.com"
                     className="icon-button google"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -2926,7 +2926,7 @@ export const Home = () => {
                 verticalAlign: "-0.1em",
               }}
             />{" "}
-            by Vikas Mishra
+            by Quazi Yadgar Husain
           </p>
           <p className="dark-mode footer-text" />
         </div>
