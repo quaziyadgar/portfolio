@@ -108,7 +108,7 @@ export const Home = () => {
                   <div>
                     <a
                       className="main-button"
-                      href="https://drive.google.com/file/d/1n-1vQP_vxfacg2_7xIdMoOkb0M_5RhCd/view?usp=drive_link"
+                      href="https://drive.google.com/file/d/1gypHOAIYBOufRn02-HHxff8f9--OXhLb/view"
                       target="_blank"
                     >
                       See my resume
